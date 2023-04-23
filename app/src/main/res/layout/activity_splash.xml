@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="@drawable/demo">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="350dp"
+        android:layout_height="550dp"
+        android:gravity="center"
+        android:maxWidth="350dp"
+        android:maxHeight="350dp"
+        android:rotation="-70"
+        android:scaleType="center"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/TitleFont"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="50dp"
+        android:gravity="center"
+        android:text="Foro Musical"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        android:textStyle="normal|bold|italic"
+        android:typeface="serif" />
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886577329757",
+    "project_id": "pconocimientos-a9e81",
+    "storage_bucket": "pconocimientos-a9e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886577329757:android:1c7b7809c70ffe21b27fb4",
+        "android_client_info": {
+          "package_name": "com.example.pconocimientos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886577329757-m3jp4pnl6n8iko2hbvcqf8r8p6rcrf3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcobW3D-jejYvQLJI-7-DNGdK7D1Q9So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886577329757-m3jp4pnl6n8iko2hbvcqf8r8p6rcrf3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
